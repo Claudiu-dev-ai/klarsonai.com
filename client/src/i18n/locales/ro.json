@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "title": "Recepționist Virtual AI | Klarson – Programări și Leaduri Automatizate 24/7",
+    "description": "Nu mai pierde clienți din cauza apelurilor ratate. Agentul Vocal AI Klarson răspunde la 100 % din apeluri, programează întâlniri și califică leaduri 24/7. Configurare expertă în mai puțin de 24 de ore."
+  },
+  "nav": {
+    "features": "Soluții",
+    "howItWorks": "Cum Funcționează",
+    "useCases": "Industrii",
+    "pricing": "Prețuri",
+    "partners": "Devino Partener",
+    "requestDemo": "Programează Demo-ul Meu Gratuit",
+    "signIn": "Autentificare",
+    "signInComingSoon": "Dashboard în curând! Integrare cu Voicerr.ai în progres."
+  },
+  "hero": {
+    "title": "Telefonul sună. Agenda ta se umple. Automat.",
+    "subtitle": "Agentul nostru Vocal AI răspunde la 100 % din apeluri, califică leaduri și programează întâlniri 24/7. Nu mai pierde oportunități și scalează-ți afacerea fără să mărești echipa.",
+    "cta": {
+      "primary": "Programează Demo-ul Meu Gratuit",
+      "secondary": "Calculează ROI-ul Meu"
+    },
+    "trustedBy": "Peste 110 afaceri folosesc Klarson pentru a transforma apelurile în venit.",
+    "compliance": "Conform HIPAA • SOC2 • GDPR"
+  },
+  "socialProof": {
+    "title": "Rezultate reale de la afaceri ca a ta",
+    "subtitle": "Nu te baza doar pe ce spunem noi. Vezi cifrele și ascultă liderii care au deja încredere în Klarson AI.",
+    "growth": {
+      "title": "Indicatori de Creștere",
+      "callsProcessed": "Apeluri procesate",
+      "callsValue": "15k",
+      "assistantsLaunched": "Agenți AI activi",
+      "assistantsValue": "110+",
+      "partners": "Parteneri certificați",
+      "partnersValue": "12+",
+      "note": "Notă: Metrici în timp real. Creștere organică bazată pe clienți mulțumiți."
+    },
+    "testimonials": [
+      {
+        "headline": "Pacienţii își programează controale fără să-își dea seama că nu vorbesc cu o persoană.",
+        "quote": "Am fost sceptic. Nu voiam ca clinica mea să pară automatizată. Dar dovada este clară: am ajuns luni și aveam 4 programări noi făcute în weekend. Agenda se umple singură.",
+        "author": "Javier Méndez",
+        "role": "Proprietar",
+        "company": "Méndez Dental Clinic"
+      },
+      {
+        "headline": "Am readus liniștea la recepţie și nu am pierdut niciun apel.",
+        "quote": "Telefonul suna constant în timp ce personalul ajuta pacienţii. Era haos. Acum, agentul Klarson filtrează totul: confirmări, întrebări de bază, totul este gestionat automat. Diferenţa este uriaașă.",
+        "author": "Dr. Carmen Soler",
+        "role": "Director Medical",
+        "company": "Vital Health Center"
+      },
+      {
+        "headline": "Când îl sun înapoi, știu deja că este un cumpărător serios.",
+        "quote": "În imobiliare, o întârziere de 5 minute înseamnă o tranzacţie pierdută. Înainte pierdeam ore sunând persoane doar curioase. Acum, IA îl pre-califică după buget, termen și locaţie. Elimină perfect zgomotul.",
+        "author": "Michael Ross",
+        "role": "Broker Principal",
+        "company": "Ross & Partners Realty"
+      }
+    ]
+  },
+  "valueProposition": {
+    "title": "Nu mai gestiona apeluri. Începe să-ți crești afacerea.",
+    "features": [
+      {
+        "title": "Nu mai pierde niciun lead",
+        "description": "Un apel ratat? Un client nou pentru concurență. IA-ul nostru funcționează 24/7, astfel încât fiecare apelant este întâmpinat, calificat și transformat într-o oportunitate."
+      },
+      {
+        "title": "Umple-ți agenda pe pilot automat",
+        "description": "De la programări până la mementouri automate, sistemul transformă agenda ta într-un flux constant de clienți calificați care se completează singur."
+      },
+      {
+        "title": "Scalează veniturile, nu costurile de personal",
+        "description": "Gestionează volumul de muncă al 3–5 recepționiști cu un singur agent AI. Oferă servicii de clasă mondială la o fracțiune din cost și eliberează echipa pentru activități cu valoare ridicată."
+      },
+      {
+        "title": "Live în 24 de ore",
+        "description": "Clienții tăi beneficiază instant de o experiență profesională, cu aspect uman. Experții noștri se ocupă de întreaga implementare, fără niciun efort tehnic din partea ta."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Lansează-ți recepționistul AI în 3 pași simpli",
+    "subtitle": "Serviciul nostru premium te duce de la zero la automatizare completă în mai puțin de 24 de ore, fără a-ți întrerupe activitatea.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Apel strategic de 30 de minute",
+        "description": "Analizăm obiectivele tale, serviciile și procesul de programare. Aceste informații sunt suficiente pentru a construi soluția ta AI personalizată."
+      },
+      {
+        "number": "02",
+        "title": "Construim și integrăm",
+        "description": "Echipa noastră configurează agentul AI și îl conectează perfect la sistemele tale existente de telefonie, SMS și WhatsApp. Fără hardware, fără software, fără bătăi de cap."
+      },
+      {
+        "number": "03",
+        "title": "Activare și optimizare",
+        "description": "Agentul AI intră în producție, gestionând apelurile și programările. Monitorizăm constant și ajustăm performanța pentru a-ți maximiza rezultatele."
+      }
+    ],
+    "problemTitle": "Costul tăcerii",
+    "missedCalls": "40 % dintre apelurile către afaceri rămân fără răspuns. Asta înseamnă venituri pierdute, clienți frustrați și oportunități ratate. Klarson AI se asigură că afacerea ta este mereu \"activă\"."
+  },
+  "useCases": {
+    "title": "Soluția AI de referință pentru afacerile bazate pe servicii",
+    "subtitle": "Eficiență și creștere a veniturilor dovedite în multiple industrii.",
+    "cases": [
+      {
+        "title": "Clinici Medicale și Stomatologice",
+        "description": "Recepționistul nostru AI, conform HIPAA, programează pacienți, răspunde la întrebări frecvente despre tratamente și gestionează apelurile în afara programului, eliberând recepția pentru îngrijirea pacienților.",
+        "benefits": ["Programare consultații", "Întrebări frecvente", "Disponibilitate 24/7"]
+      },
+      {
+        "title": "Hoteluri și Restaurante",
+        "description": "Asistentul vocal AI ideal pentru industria ospitatității. Gestionează rezervări de mese și camere, solicitări ale oaspeților și evenimente, 24/7, în mai multe limbi.",
+        "benefits": ["Sistem de rezervări", "Suport multilingv", "Rezervări evenimente"]
+      },
+      {
+        "title": "Agenții Imobiliare",
+        "description": "Oferă agenției tale un avantaj competitiv. IA pre-califică leadurile de cumpărători, programează vizionări și oferă instant detalii despre proprietăți, astfel încât agenții să discute doar cu potențiali clienți serioși.",
+        "benefits": ["Calificare leaduri", "Programare vizionări", "Disponibilitate 24/7"]
+      },
+      {
+        "title": "E-commerce și Retail",
+        "description": "Gestionează solicitări despre comenzi, actualizări de livrare și retururi non-stop. Oferă suport instant fără a extinde echipa de relații cu clienții.",
+        "benefits": ["Urmărire comenzi", "Actualizări livrare", "Suport 24/7"]
+      },
+      {
+        "title": "Agenții de Colectare",
+        "description": "Automatizează mementouri de plată și negociază planuri de rambursare într-un mod profesionist și conform, asigurând un flux de numerar constant.",
+        "benefits": ["Mementouri plată", "Negociere planuri", "Conformitate"]
+      },
+      {
+        "title": "Și multe altele…",
+        "description": "De la servicii juridice și logistică până la educație și nu numai. IA noastră se adaptează oricărei industrii care necesită o comunicare vocală profesională, scalabilă și eficientă.",
+        "benefits": ["Soluții personalizate", "Experiență sectorială", "Scalabil"]
+      }
+    ],
+    "andMore": "Și multe alte industrii... Contactează-ne pentru a discuta nevoile tale specifice."
+  },
+  "pricing": {
+    "title": "Prețuri simple și transparente pentru a-ți crește afacerea",
+    "subtitle": "Alege planul potrivit volumului tău de apeluri. Fără costuri ascunse.",
+    "billingToggle": {
+      "monthly": "Lunar",
+      "annual": "Anual",
+      "save": "Economisește 20%"
+    },
+    "plans": [
+      {
+        "name": "Essential",
+        "price": "€115",
+        "period": "/lună",
+        "description": "Soluția perfectă pentru afaceri mici și profesioniști care fac primul pas către automatizarea inteligentă. Elimină apelurile ratate și asigură suport clienți 24/7 încă din prima zi.",
+        "features": [
+          "Până la 300 min./lună",
+          "1 agent vocal AI dedicat",
+          "Gestionare standard a apelurilor",
+          "Suport rapid",
+          "Minute suplimentare: Doar 0,35 € pe minut"
+        ],
+        "cta": "Începe automatizarea acum"
+      },
+      {
+        "name": "Professional",
+        "price": "€285",
+        "period": "/lună",
+        "description": "Creat pentru afaceri în creștere care vor să maximizeze conversia leadurilor. Transformă fiecare apel într-o oportunitate de vânzare calificată și automatizează fluxuri de lucru complexe.",
+        "features": [
+          "Până la 1.000 min./lună",
+          "3 agenți vocali AI",
+          "Calificare avansată a leadurilor",
+          "Fluxuri de lucru personalizate",
+          "Suport prioritar dedicat",
+          "Minute suplimentare: Doar 0,30 € pe minut"
+        ],
+        "cta": "Deblochează creșterea",
+        "highlighted": true
+      },
+      {
+        "name": "Elite",
+        "price": "Personalizat",
+        "period": "prețuri",
+        "description": "Pentru corporații și organizații mari, cu volume ridicate de apeluri și cerințe speciale de integrare. O soluție AI personalizată, concepută să scaleze odată cu infrastructura ta.",
+        "features": [
+          "Minute negociabile",
+          "Logică AI complet personalizată",
+          "Account Manager dedicat",
+          "Acces API",
+          "Tarif stabilit în funcție de volum și acord"
+        ],
+        "cta": "Vorbește cu un expert"
+      }
+    ],
+    "addon": {
+      "title": "Configurare și integrare expert (plată unică)",
+      "description": "Echipa noastră oferă un serviciu premium pentru a fi live în 24 de ore. Include strategie, configurarea agentului AI și integrarea cu sistemele tale. (Prețul este comunicat în timpul demo-ului sau al apelului de vânzări pentru a reduce fricțiunea inițială).",
+      "cta": "Află mai multe în demo-ul tău"
+    }
+  },
+  "partnersPage": {
+    "hero": {
+      "title": "Devino Partener Klarson AI. Adaugă un serviciu AI cu cerere ridicată în oferta ta.",
+      "subtitle": "Oferă clienților tăi o soluție puternică de automatizare vocală și câștigă până la 30 % venituri recurente. Pe viață. Noi oferim tehnologia, trainingul și leadurile; tu îți crești afacerea.",
+      "cta": "Aplică pentru a deveni Partener"
+    },
+    "benefits": {
+      "title": "Un program de parteneriat conceput pentru creșterea ta",
+      "items": [
+        {
+          "title": "Până la 30 % comision recurent",
+          "description": "Generează venituri predictibile lună de lună. Primești până la 30 % din fiecare abonament al clienților aduși de tine, pe viață."
+        },
+        {
+          "title": "Îți trimitem leaduri calificate",
+          "description": "\"Protocolul nostru de Rescue\" identifică utilizatorii care au nevoie de ajutor la configurare. Îți atribuim aceste leaduri cu intenție ridicată pentru a le transforma în clienți de servicii."
+        },
+        {
+          "title": "Suport și training complet",
+          "description": "Nu ești singur. Ai acces la Klarson Academy, materiale de marketing, studii de caz și suport tehnic pentru a închide vânzări cu încredere."
+        }
+      ]
+    },
+    "idealPartner": {
+      "title": "Este acest program potrivit pentru tine?",
+      "description": "Programul este ideal dacă ești:",
+      "profiles": [
+        "O agenție de marketing digital care dorește să ofere servicii de automatizare cu valoare ridicată.",
+        "Un consultant de business în căutarea unor soluții concrete pentru eficientizarea clienților.",
+        "Un implementator software sau MSP care vrea să-și extindă portofoliul cu soluții AI.",
+        "Un antreprenor cu o rețea de contacte în industrii cheie (clinici, ospitalitate etc.)."
+      ]
+    },
+    "process": {
+      "title": "Drumul tău către statutul de Partener Certificat",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Aplică online",
+          "description": "Completează formularul în 2 minute. Echipa noastră îți va analiza profilul."
+        },
+        {
+          "number": "2",
+          "title": "Finalizează trainingul",
+          "description": "Accesează academia noastră online și obține certificarea în ritmul tău."
+        },
+        {
+          "number": "3",
+          "title": "Începe să vinzi",
+          "description": "Folosește resursele noastre și începe să oferi Klarson AI rețelei tale de clienți."
+        }
+      ]
+    },
+    "form": {
+      "title": "Ești pregătit să construiești viitorul comunicării vocale?",
+      "subtitle": "Completează formularul și te vom contacta în mai puțin de 24 de ore pentru a discuta pașii următori.",
+      "fields": {
+        "fullName": "Nume complet",
+        "email": "Email companie",
+        "company": "Numele companiei",
+        "website": "Website-ul companiei",
+        "partnerType": "Ce tip de partener ești?",
+        "partnerTypeOptions": ["Agenție", "Consultant", "Implementator", "Altul"],
+        "interest": "De ce ești interesat să devii partener Klarson AI?",
+        "submit": "Trimite aplicația mea"
+      }
+    }
+  },
+  "partners": {
+    "title": "Devino Partener Klarson AI",
+    "subtitle": "Oferă clienților tăi o soluție AI cu valoare ridicată și generează 30 % comisioane recurente pe viață pentru fiecare client adus.",
+    "benefits": [
+      {
+        "value": "Până la 30 %",
+        "title": "Comision pe viață",
+        "description": "Câștigă până la 30 % comision recurent pentru fiecare client recomandat, atât timp cât rămâne activ."
+      },
+      {
+        "value": "Personal",
+        "title": "Dashboard pentru parteneri",
+        "description": "Urmărește-ți clienții, monitorizează utilizarea și vezi comisioanele în timp real. Fără white-label."
+      },
+      {
+        "value": "Expert",
+        "title": "Suport de marketing",
+        "description": "Îți punem la dispoziție template-uri, studii de caz și materiale de vânzări pentru a închide mai rapid."
+      }
+    ],
+    "dashboardFeatures": {
+      "clients": "Clienții tăi",
+      "clientsDesc": "Monitorizare completă a portofoliului",
+      "sales": "Analiză vânzări",
+      "salesDesc": "Comisioane în timp real"
+    },
+    "cta": {
+      "primary": "Aplică pentru a deveni Partener",
+      "secondary": "Descarcă ghidul pentru parteneri"
+    },
+    "applyMessage": "Formularul de aplicare pentru parteneri va fi disponibil în curând!"
+  },
+  "footer": {
+    "tagline": "Klarson | Recepționistul virtual AI care transformă apelurile în venituri.",
+    "company": {
+      "title": "Companie",
+      "about": "Despre noi",
+      "careers": "Cariere",
+      "press": "Presă",
+      "contact": "Contact"
+    },
+    "product": {
+      "title": "Produs",
+      "features": "Funcționalități",
+      "pricing": "Prețuri",
+      "integrations": "Integrări",
+      "api": "API"
+    },
+    "resources": {
+      "title": "Resurse",
+      "blog": "Blog",
+      "caseStudies": "Studii de caz",
+      "webinars": "Webinarii",
+      "help": "Centru de ajutor"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Politica de confidențialitate",
+      "terms": "Termeni și condiții",
+      "cookies": "Politica de cookies",
+      "gdpr": "GDPR"
+    },
+    "partnersCta": {
+      "question": "Ești o agenție de marketing sau consultant?",
+      "link": "Alătură-te programului nostru de parteneriat",
+      "suffix": "și oferă soluții AI clienților tăi."
+    },
+    "heroBadges": {
+      "coverage": "Acoperire 100 % a apelurilor",
+      "available": "Disponibil 24/7"
+    },
+    "mostPopular": "Cel mai popular"
+  },
+  "faq": {
+    "title": "Întrebări Frecvente",
+    "subtitle": "Găsește răspunsuri la cele mai frecvente întrebări despre Klarson AI",
+    "cta": "Mai ai întrebări?",
+    "ctaButton": "Rezervă un Demo Gratuit",
+    "questions": [
+      {
+        "question": "Cum funcționează Klarson AI?",
+        "answer": "Klarson AI este un agent vocal alimentat de inteligență artificială care răspunde automat la toate apelurile tale, 24 de ore pe zi, 7 zile pe săptămână. Când cineva te sună: 1) IA răspunde profesional și natural 2) Înțelege ce are nevoie clientul 3) Colectează informații și califică lead-ul 4) Programează întâlniri direct în calendarul tău 5) Trimite confirmări automate. Totul se întâmplă fără intervenție umană. Echipa ta se concentrează doar pe clienții deja calificați."
+      },
+      {
+        "question": "IA suna ca un robot?",
+        "answer": "Nu. Klarson AI suna complet natural și uman. Folosește tehnologie de sinteză vocală de ultimă generație care menține conversații fluide, înțelege contextul, recunoaște emoțiile și își adaptează răspunsurile în funcție de situație. Clienții tăi de obicei nu realizează că vorbesc cu o IA. Mulți dintre clienții noștri raportează că clienții lor sunt surprinși când află adevărul."
+      },
+      {
+        "question": "Cât durează implementarea?",
+        "answer": "De obicei 24 de ore. Procesul este: 1) 30 de minute - Apel strategic cu tine 2) Câteva ore - Echipa noastră configurează și integrează 3) 24 de ore - IA ta este live și funcționează. În cazuri excepționale (afaceri cu volum foarte mare sau integrări complexe), ar putea dura puțin mai mult. Dar majoritatea clienților noștri sunt operaționali în mai puțin de 24 de ore."
+      },
+      {
+        "question": "Trebuie să fac ceva tehnic?",
+        "answer": "Nu. Noi ne ocupăm de tot. Echipa noastră de experți: • Configurează IA ta personalizată • Integrează cu sistemul tău telefonic actual • Conectează cu calendarul tău (sau implementează unul dacă nu ai) • Instruiește echipa ta în utilizarea sistemului • Monitorizează performanța constant. Trebuie doar să particip la apelul strategic de 30 de minute. Zero complicații tehnice."
+      },
+      {
+        "question": "Este sigur să folosesc Klarson AI cu informații sensibile?",
+        "answer": "Complet sigur. Klarson AI este construit pe Vapi, o platformă care îndeplinește cele mai înalte standarde de securitate: • Certificat SOC2 - Audit independent de securitate • Conform HIPAA - Sigur pentru informații medicale și de sănătate • Conform PCI - Sigur pentru informații de plată • Conform GDPR - Respectă reglementările europene de confidențialitate • Criptare date - Toate datele sunt criptate în tranzit și în repaus. Datele tale sunt protejate cu aceleași standarde folosite de bănci și spitale."
+      },
+      {
+        "question": "Care plan este potrivit pentru afacerea mea?",
+        "answer": "Depinde de volumul de apeluri pe care îl primești: Essential (€115/lună) - Până la 300 minute/lună, 1 Agent IA dedicat, Ideal pentru afaceri mici și profesioniști independenți. Professional (€285/lună) - Până la 1.000 minute/lună, 3 Agenți IA, Calificare avansată a lead-urilor, Ideal pentru afaceri în creștere. Elite (Preț personalizat) - Minute negociabile în funcție de volumul tău, Logică IA complet personalizată, Manager de cont dedicat, Ideal pentru corporații mari. Nu ești sigur? Folosește calculatorul nostru ROI pentru a estima volumul de apeluri."
+      },
+      {
+        "question": "Există contract minim? Pot anula oricând?",
+        "answer": "Nu există contract minim. Poți anula oricând fără penalizări sau taxe ascunse. Reduceri pentru angajament pe termen lung: • Contract de 1 an: Reducere disponibilă • Contract de 2+ ani: Reducere mai mare. Dar decizia este complet a ta. Vrem să ai încredere în noi, nu să te simți prinsă."
+      },
+      {
+        "question": "Când văd rentabilitatea investiției (ROI)?",
+        "answer": "Din prima lună. Clienții noștri raportează: • Reducere imediată a apelurilor pierdute • Creștere a întâlnirilor și rezervărilor în prima săptămână • Economii la salariul recepționerului din prima lună. Nu există un singur client care să nu fi văzut rezultate semnificative de la început."
+      }
+    ]
+  }
+}

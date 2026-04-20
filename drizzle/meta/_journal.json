@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1768880549358,
+      "tag": "0000_clumsy_kabuki",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1768880655812,
+      "tag": "0001_cute_king_bedlam",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1768924570712,
+      "tag": "0002_tranquil_fixer",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "title": "AI Virtual Receptionist | Klarson - 24/7 Automated Appointment & Lead Capture",
+    "description": "Stop losing customers to missed calls. Klarson's AI Voice Agent answers 100% of your calls, books appointments, and qualifies leads 24/7. Get your expert setup in under 24 hours."
+  },
+  "nav": {
+    "features": "Solutions",
+    "howItWorks": "How It Works",
+    "useCases": "Industries",
+    "pricing": "Pricing",
+    "partners": "Become a Partner",
+    "requestDemo": "Book My Free Demo",
+    "signIn": "Sign In",
+    "signInComingSoon": "Dashboard coming soon! Integration with Voicerr.ai in progress."
+  },
+  "hero": {
+    "title": "Your Phone Rings, Your Calendar Fills Up. Automatically.",
+    "subtitle": "We implement a custom AI voice system that handles 100% of your calls, qualifies every lead, and fills your calendar 24/7. Scale your business without hiring more staff or missing a single opportunity.",
+    "cta": {
+      "primary": "Book My Free Demo",
+      "secondary": "Calculate My ROI"
+    },
+    "trustedBy": "Trusted by 110+ businesses to turn missed calls into revenue.",
+    "compliance": "HIPAA • SOC2 • GDPR Compliant"
+  },
+  "socialProof": {
+    "title": "Real Results from Businesses Like Yours",
+    "subtitle": "Don't just take our word for it. See the numbers and hear from the leaders who already trust Klarson AI.",
+    "growth": {
+      "title": "Growth Metrics",
+      "callsProcessed": "Calls Handled",
+      "callsValue": "15k",
+      "assistantsLaunched": "AI Agents Live",
+      "assistantsValue": "110+",
+      "partners": "Certified Partners",
+      "partnersValue": "12+",
+      "note": "Note: Real-time metrics. Growing organically with satisfied clients."
+    },
+    "testimonials": [
+      {
+        "headline": "Patients are scheduling check-ups without realizing they're not talking to a person.",
+        "quote": "I was skeptical. I didn't want my clinic to feel automated. But the proof is undeniable: we arrived Monday to 4 new appointments booked over the weekend. The calendar just fills itself.",
+        "author": "Javier Méndez",
+        "role": "Owner",
+        "company": "Méndez Dental Clinic"
+      },
+      {
+        "headline": "We've restored peace and quiet at reception, and we haven't lost a single call.",
+        "quote": "The phone wouldn't stop ringing while our staff helped patients. It was chaotic. Now, Klarson's agent filters everything: confirmations, basic questions—all handled automatically. The change is night and day.",
+        "author": "Dr. Carmen Soler",
+        "role": "Medical Director",
+        "company": "Vital Health Center"
+      },
+      {
+        "headline": "By the time I call them back, I know it's a serious buyer.",
+        "quote": "In real estate, a 5-minute delay means a lost deal. Before, we wasted hours calling back curious people. Now, the AI pre-qualifies them on budget, timeline, and location. It perfectly filters out the noise.",
+        "author": "Michael Ross",
+        "role": "Principal Broker",
+        "company": "Ross & Partners Realty"
+      }
+    ]
+  },
+  "valueProposition": {
+    "title": "Stop Juggling Calls. Start Growing Your Business.",
+    "features": [
+      {
+        "title": "Never Lose a Lead Again",
+        "description": "Missed call? That's a competitor's new customer. Our AI works 24/7, ensuring every caller is greeted, qualified, and converted into an opportunity."
+      },
+      {
+        "title": "Fill Your Calendar on Autopilot",
+        "description": "From booking appointments to sending automated reminders, our system turns your calendar into a self-filling pipeline of qualified customers."
+      },
+      {
+        "title": "Scale Your Revenue, Not Your Payroll",
+        "description": "Handle the workload of 3-5 receptionists with a single AI agent. Deliver world-class service at a fraction of the cost and free up your team for high-value work."
+      },
+      {
+        "title": "Go Live in 24 Hours",
+        "description": "Your customers get a professional, human-like experience instantly. Our experts handle the full implementation zero technical effort required from you."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Launch Your AI Receptionist in 3 Simple Steps",
+    "subtitle": "Our white-glove service gets you from zero to fully automated in under 24 hours, without interrupting your business.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "30-Min Strategy Call",
+        "description": "We map out your goals, services, and booking process. This is all we need to build your custom AI solution."
+      },
+      {
+        "number": "02",
+        "title": "We Build & Integrate",
+        "description": "Our team configures your AI Agent and connects it seamlessly to your existing phone, SMS, and WhatsApp systems. No hardware, no software, no complications."
+      },
+      {
+        "number": "03",
+        "title": "Activate & Optimize",
+        "description": "Your AI Agent goes live, managing calls and booking appointments. We continuously monitor and refine its performance to maximize your results."
+      }
+    ],
+    "problemTitle": "The Cost of Silence",
+    "missedCalls": "40% of business calls go unanswered. That's lost revenue, frustrated customers, and missed opportunities. Klarson AI ensures your business is always \"on.\""
+  },
+  "useCases": {
+    "title": "The Go-To AI Solution for Service-Based Businesses",
+    "subtitle": "Proven to increase efficiency and revenue across multiple sectors.",
+    "cases": [
+      {
+        "title": "Medical & Dental Clinics",
+        "description": "Our HIPAA-compliant AI receptionist books patient appointments, answers treatment FAQs, and handles after-hours calls, freeing your front desk to focus on patient care.",
+        "benefits": ["Appointment booking", "Patient FAQs", "24/7 availability"]
+      },
+      {
+        "title": "Hotels & Restaurants",
+        "description": "The perfect AI voice assistant for hospitality. It manages table reservations, room bookings, guest inquiries, and event bookings 24/7 in multiple languages.",
+        "benefits": ["Reservation system", "Multilingual support", "Event bookings"]
+      },
+      {
+        "title": "Real Estate Agencies",
+        "description": "Give your agency an edge. Our AI pre-qualifies buyer leads, schedules viewings, and provides instant property details, so your agents only talk to serious prospects.",
+        "benefits": ["Lead qualification", "Viewing scheduling", "24/7 availability"]
+      },
+      {
+        "title": "E-commerce & Retail",
+        "description": "Handle order inquiries, shipping updates, and returns processing around the clock. Provide instant support without increasing your CS team.",
+        "benefits": ["Order tracking", "Shipping updates", "24/7 support"]
+      },
+      {
+        "title": "Collection Agencies",
+        "description": "Automate payment reminders and negotiate payment plans professionally and compliantly, ensuring consistent cash flow.",
+        "benefits": ["Payment reminders", "Plan negotiation", "Compliance"]
+      },
+      {
+        "title": "And many more...",
+        "description": "From legal services and logistics to education and beyond. Our AI adapts to any industry that requires professional, scalable, and efficient voice communication.",
+        "benefits": ["Custom solutions", "Industry expertise", "Scalable"]
+      }
+    ],
+    "andMore": "And many more industries... Contact us to discuss your specific needs."
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing to Grow Your Business",
+    "subtitle": "Choose the plan that fits your call volume. No hidden fees.",
+    "billingToggle": {
+      "monthly": "Monthly",
+      "annual": "Annual",
+      "save": "Save 20%"
+    },
+    "plans": [
+      {
+        "name": "Essential",
+        "price": "€115",
+        "period": "/month",
+        "description": "The perfect solution for small businesses and professionals taking the first step toward intelligent automation. Eliminate missed calls and guarantee 24/7 customer service from day one.",
+        "features": [
+          "Up to 300 min./month",
+          "1 Dedicated AI Voice Agent",
+          "Standard Call Handling",
+          "Quick Support",
+          "Extra Minutes: €0.35 per minute"
+        ],
+        "cta": "Start Automating Now"
+      },
+      {
+        "name": "Professional",
+        "price": "€285",
+        "period": "/month",
+        "description": "Designed for growing businesses that need to maximize lead conversion. Transform every call into a qualified sales opportunity and automate your most complex workflows.",
+        "features": [
+          "Up to 1,000 min./month",
+          "3 AI Voice Agents",
+          "Advanced Lead Qualification",
+          "Custom Workflows",
+          "Dedicated Priority Support",
+          "Extra Minutes: €0.30 per minute"
+        ],
+        "cta": "Unlock Growth",
+        "highlighted": true
+      },
+      {
+        "name": "Elite",
+        "price": "Custom",
+        "period": "pricing",
+        "description": "For large corporations and organizations with unique integration requirements and high call volume. A tailor-made AI solution, designed to scale with your infrastructure.",
+        "features": [
+          "Negotiable Minutes",
+          "Fully Customized AI Logic",
+          "Dedicated Account Manager",
+          "API Access",
+          "Rate to be discussed based on volume"
+        ],
+        "cta": "Talk to an Expert"
+      }
+    ],
+    "addon": {
+      "title": "One-Time Expert Setup & Integration",
+      "description": "Our team provides a white-glove service to get you live in 24 hours. This includes strategy, AI configuration, and integration with your systems.",
+      "cta": "Learn More in Your Demo"
+    }
+  },
+  "partnersPage": {
+    "hero": {
+      "title": "Become a Klarson AI Partner. Add a High-Demand AI Service to Your Offer.",
+      "subtitle": "Offer your clients a powerful voice automation solution and earn up to 30% recurring revenue. For life. We provide the tech, training, and leads you grow your business.",
+      "cta": "Apply to Become a Partner"
+    },
+    "benefits": {
+      "title": "A Partner Program Designed for Your Growth",
+      "items": [
+        {
+          "title": "Up to 30% Recurring Commission",
+          "description": "Generate predictable income month after month. You receive up to 30% of every subscription payment from customers you bring, forever."
+        },
+        {
+          "title": "We Send You Hot Leads",
+          "description": "Our 'Rescue Protocol' identifies users who need help with setup. We assign these high-intent leads to you so you can convert them into service customers."
+        },
+        {
+          "title": "Complete Support and Training",
+          "description": "You're not alone. Get access to Klarson Academy, marketing materials, case studies, and technical support to close deals with confidence."
+        }
+      ]
+    },
+    "idealPartner": {
+      "title": "Is This Program for You?",
+      "description": "This program is ideal if you are:",
+      "profiles": [
+        "A Digital Marketing Agency that wants to offer high-value automation services.",
+        "A Business Consultant looking for tangible solutions to improve your clients' efficiency.",
+        "A Software Implementer or MSP that wants to expand your service catalog with AI.",
+        "An Entrepreneur with a network of contacts in key industries (clinics, hospitality, etc.)."
+      ]
+    },
+    "process": {
+      "title": "Your Path to Becoming a Certified Partner",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Apply Online",
+          "description": "Fill out our form in 2 minutes. Our team will review your profile."
+        },
+        {
+          "number": "2",
+          "title": "Complete Training",
+          "description": "Access our online academy and complete the certification at your own pace."
+        },
+        {
+          "number": "3",
+          "title": "Start Selling",
+          "description": "Use our resources and start offering Klarson AI to your customer network."
+        }
+      ]
+    },
+    "form": {
+      "title": "Ready to Build the Future of Voice Communication?",
+      "subtitle": "Fill out the form and we'll contact you in less than 24 hours to discuss next steps.",
+      "fields": {
+        "fullName": "Full Name",
+        "email": "Company Email",
+        "company": "Company Name",
+        "website": "Company Website",
+        "partnerType": "What type of partner are you?",
+        "partnerTypeOptions": ["Agency", "Consultant", "Implementer", "Other"],
+        "interest": "Why are you interested in becoming a Klarson AI partner?",
+        "submit": "Send My Application"
+      }
+    }
+  },
+  "partners": {
+    "title": "Become a Klarson AI Partner",
+    "subtitle": "Offer your customers a high-value AI solution and generate 30% recurring commissions for life for each customer you bring.",
+    "benefits": [
+      {
+        "value": "up to 30%",
+        "title": "Lifetime Commission",
+        "description": "Earn up to 30% recurring commission on every customer you refer for as long as they remain a client."
+      },
+      {
+        "value": "Personal",
+        "title": "Partner Dashboard",
+        "description": "Track your customers, monitor their usage, and see your commissions in real-time. No white-label needed."
+      },
+      {
+        "value": "Expert",
+        "title": "Marketing Support",
+        "description": "We provide you with templates, case studies, and sales materials to help you close deals faster."
+      }
+    ],
+    "dashboardFeatures": {
+      "clients": "Your Clients",
+      "clientsDesc": "Full portfolio tracking",
+      "sales": "Sales Analytics",
+      "salesDesc": "Real-time commissions"
+    },
+    "cta": {
+      "primary": "Apply to be a Partner",
+      "secondary": "Download Partner Guide"
+    },
+    "applyMessage": "Partner application form coming soon!"
+  },
+  "footer": {
+    "tagline": "Klarson | The AI Virtual Receptionist that turns calls into revenue.",
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "careers": "Careers",
+      "press": "Press",
+      "contact": "Contact"
+    },
+    "product": {
+      "title": "Product",
+      "features": "Features",
+      "pricing": "Pricing",
+      "integrations": "Integrations",
+      "api": "API"
+    },
+    "resources": {
+      "title": "Resources",
+      "blog": "Blog",
+      "caseStudies": "Case Studies",
+      "webinars": "Webinars",
+      "help": "Help Center"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy",
+      "gdpr": "GDPR"
+    },
+    "partnersCta": {
+      "question": "Are you a marketing agency or consultant?",
+      "link": "Join our Partner Program",
+      "suffix": "and offer AI solutions to your clients."
+    },
+    "heroBadges": {
+      "coverage": "100% Call Coverage",
+      "available": "24/7 Available"
+    },
+    "mostPopular": "Most Popular"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to the most common questions about Klarson AI",
+    "cta": "More questions?",
+    "ctaButton": "Book a Free Demo",
+    "questions": [
+      {
+        "question": "How does Klarson AI work?",
+        "answer": "Klarson AI is a voice-powered AI agent that automatically answers all your calls, 24/7. When someone calls you: 1) The AI responds professionally and naturally 2) It understands what the customer needs 3) It collects information and qualifies the lead 4) It schedules appointments directly in your calendar 5) It sends automatic confirmations. Everything happens without human intervention. Your team focuses only on already-qualified customers."
+      },
+      {
+        "question": "Does the AI sound like a robot?",
+        "answer": "No. Klarson AI sounds completely natural and human. It uses cutting-edge voice synthesis technology that maintains fluid conversations, understands context, recognizes emotions, and adapts its responses. Your customers typically don't realize they're talking to an AI. Many of our clients report that their customers are surprised when they find out."
+      },
+      {
+        "question": "How long does implementation take?",
+        "answer": "Usually 24 hours. The process is: 1) 30 minutes - Strategy call with you 2) Several hours - Our team configures and integrates 3) 24 hours - Your AI is live. In exceptional cases (businesses with very high volume or complex integrations), it may take a bit longer. But most of our clients are operational in less than 24 hours."
+      },
+      {
+        "question": "Do I need to do anything technical?",
+        "answer": "No. We handle everything. Our expert team: • Configures your AI • Integrates with your current phone system • Connects to your calendar (or implements one if you don't have one) • Teaches your team how to use the system • Monitors performance. You just attend the 30-minute strategy call. Zero technical complications."
+      },
+      {
+        "question": "Is it safe to use Klarson AI with sensitive information?",
+        "answer": "Absolutely. Klarson AI is built on Vapi, a platform that meets the highest security standards: • SOC2 Certified - Independent security audit • HIPAA Compliant - Safe for medical information • PCI Compliant - Safe for payment information • GDPR Compliant - Complies with European privacy regulations • Data Encryption - All data is encrypted in transit and at rest. Your data is protected with the same standards used by banks and hospitals."
+      },
+      {
+        "question": "Which plan is right for my business?",
+        "answer": "It depends on your call volume: Essential (€115/month) - Up to 300 minutes/month, 1 Dedicated AI Agent, Ideal for small businesses and independent professionals. Professional (€285/month) - Up to 1,000 minutes/month, 3 AI Agents, Advanced lead qualification, Ideal for growing businesses. Elite (Custom pricing) - Negotiable minutes, Fully customized AI logic, Dedicated account manager, Ideal for large corporations. Not sure? Use our ROI calculator to estimate your volume."
+      },
+      {
+        "question": "Is there a minimum contract? Can I cancel anytime?",
+        "answer": "No minimum contract. You can cancel anytime without penalties or hidden charges. Commitment discounts: • 1-year contract: Discount available • 2+ year contract: Larger discount. But the choice is yours. We want you to trust us, not feel trapped."
+      },
+      {
+        "question": "When will I see ROI?",
+        "answer": "From the first month. Our clients report: • Immediate reduction in missed calls • Increase in appointments/reservations within the first week • Savings on receptionist payroll in the first month. Not a single client has failed to see significant results from day one."
+      }
+    ]
+  }
+}
